@@ -20,10 +20,10 @@
   "loopback-component": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-component-oauth2.git"
+    "url": "git://github.com/OKAMca/loopback-component-oauth2.git"
   },
   "bugs": {
-    "url": "http://github.com/strongloop/loopback-component-oauth2/issues"
+    "url": "http://github.com/OKAMca/loopback-component-oauth2/issues"
   },
   "main": "./lib",
   "dependencies": {
@@ -33,6 +33,7 @@
     "debug": "^2.2.0",
     "jws": "^3.0.0",
     "passport": "^0.3.2",
+    "passport-anonymous": "^1.0.1",
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
     "passport-local": "^1.0.0",
